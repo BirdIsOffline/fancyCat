@@ -34,15 +34,15 @@ The script also checks whether a filename was provided and whether the file exis
 
 ### What I asked AI
 
-I asked AI to help me create a fancy Linux command that combined two commands. I also asked AI to help identify test scenarios and possible edge cases.
+I asked AI to help identify test scenarios and possible edge cases.
 
 ### Where AI helped
 
-AI helped me create the Bash script and understand how the commands worked. AI also suggested testing a valid file, a nonexistent file, and running the command without providing a filename.
+AI suggested testing a valid file, a nonexistent file, and running the command without providing a filename.
 
 ### Where I had to think independently
 
-I had to run the command myself in Codio, check the results, and determine whether the actual output matched the expected output. I also had to make sure the command followed the assignment requirements.
+I had to create and run the command myself in Codio, check the results, and determine whether the actual output matched the expected output. I also had to make sure the command followed the assignment requirements.
 
 ### What AI got wrong or missed
 
